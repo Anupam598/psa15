@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2c10052-455d-4d69-8917-c2097c90768a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/psa15/src/main/java/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/psa15/src/main/java/A.java" afterDir="false" />
+    <list default="true" id="a2c10052-455d-4d69-8917-c2097c90768a" name="Changes" comment="added git code">
+      <change beforePath="$PROJECT_DIR$/psa15" beforeDir="false" afterPath="$PROJECT_DIR$/psa15" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +19,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/psa15" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
@@ -42,6 +46,19 @@
       <option name="presentableId" value="Default" />
       <updated>1728410547269</updated>
     </task>
+    <task id="LOCAL-00001" summary="added git code">
+      <option name="closed" value="true" />
+      <created>1728410729550</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728410729550</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added git code" />
+    <option name="LAST_COMMIT_MESSAGE" value="added git code" />
   </component>
 </project>
